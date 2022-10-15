@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.175">
+    <testcase classname="Validate the car parking lot of the mall" name="verify for getting a parking ticket and existing the parking lot" time="0.031">
+        <system-out><![CDATA[Given A person in a 50 enters the parking lot...............................passed
+When A person ask for parking ticket in 4-wheeler...........................passed
+Then The Ticket ID is given to the person...................................passed
+And The parking lot has <49> 4-wheeler parkings spots remaining and <100> 2-wheeler parking spots remaining.passed
+]]></system-out>
+    </testcase>
+</testsuite>
